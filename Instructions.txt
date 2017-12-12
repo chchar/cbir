@@ -1,0 +1,12 @@
+Instructions for running:
+
+	+ Copy the files to a folder named C:\Project\
+		Note: If you do not do so, then make sure you make the necessary changes in the file "aDemo.m" for the directory...
+
+	+ Change the MatLab current directory to C:\Project\... using cd('C:\Project\')
+	+ Run the program, by typing "aDemo"...
+
+	+ In the running window, select the option you wish to have.
+	+ Select the image bitmap file you wish to search for in the databse.
+	+ Press Select.
+	+ Press Search.
